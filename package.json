@@ -1,0 +1,16 @@
+{
+  "name": "colourize-building",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colourizeBuilding.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha",
+    "start": "node colourizeBuilding.js"
+  },
+  "author": "SundarBalaji.R",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
